@@ -102,7 +102,7 @@ export default [
     picture: "https://secureservercdn.net/166.62.115.254/f46.324.myftpupload.com/wp-content/uploads/2018/02/favicon.png",
     url: "https://www.inswitch.com/",
     name: "IN Switch",
-    description: "Leading mobile financial innovation",
+    description: "Lending & fintech innovation",
     meta: {
       allowFullRemote: true,
       hasPhysicalOffices: true
